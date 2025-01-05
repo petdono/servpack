@@ -1,0 +1,10 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "ServerPack Server",
+      "address": "play.xify.org:55555",
+      "forced": true
+    }
+  ]
+}
