@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+     {
+        "id": "1.0.3",
+        "releasedAt": 1736000700,
+        "promotions": {
+            "updateType": "minor"
+            "downloads": {
+                "Join Discord": "https://discord.gg/BYvkmdRt3K",
+                "Updates Channel": "https://discord.com/channels/1323844779561189436/1323846669800046652",
+                "Suggest A Mod": "https://discord.com/channels/1323844779561189436/1323850191232569355"
+            }
+        }
+    }
   ]
 }
